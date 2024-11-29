@@ -1,0 +1,68 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookname": "html full stack",
+      "authorname": "raju",
+      "publishyear": "12-05-2023",
+      "price": "450"
+    },
+    {
+      "id": 2,
+      "bookname": "css basic", 
+      "authorname": "ravi sharma",
+      "publishyear": "13-09-2022",
+      "price": "600"
+    },
+    {
+      "id": 3,
+      "bookname": "css basci to advanced",
+      "authorname": "ramesh shukla",
+      "publishyear": "23-09-2024",
+      "price": "560"
+    },
+    {
+      "id": 3,
+      "bookname": "css advanced",
+      "authorname": "Abhishek",
+      "publishyear": "23-07-2021",
+      "price": "1200"
+    },
+    {
+      "id":4,
+      "bookname": "html",
+      "authorname": "sanju",
+      "publishyear": "24-09-2024",
+      "price": "450"
+    },
+    {
+    "id": 5,
+      "bookname": "science",
+      "authorname": "Schand",
+      "publishyear": "10-02-2009",
+      "price": "1450"
+    },
+    {
+      "id": 6,
+        "bookname": "social science",
+        "authorname": "mohit khare",
+        "publishyear": "19-04-2019",
+        "price": "1850"
+      },
+      {
+        "id": 6,
+          "bookname": "Math",
+          "authorname": "Rsagarwal",
+          "publishyear": "11-12-2001",
+          "price": "1250"
+        },
+        {
+          "id": 5,
+            "bookname": "Hindi",
+            "authorname": "Navneet singh",
+            "publishyear": "20-05-2006",
+            "price": "1650"
+          }
+
+  ]
+}
